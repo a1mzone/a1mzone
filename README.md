@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a1mzone
 - 👀 I’m interested in Geospatial Data mostly using software from Apache Software Foundation (Hadoop, Accumulo, Spark, NiFi, Sedona etc)
-- 🌱 I’m currently learning HugeGraph, HeavyDB, TigerGraph
+- 🌱 I’m currently learning location intelligence on graph databases 
 - 📫 How to reach me - zakkcoetzee@gmail.com
 
 <!---
